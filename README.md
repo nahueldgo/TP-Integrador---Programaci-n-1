@@ -14,5 +14,5 @@ Mediante un ejemplo práctico en Python, se busca entender mejor el funcionamien
 Link TP Integrador (.pdf)
 https://drive.google.com/file/d/1smSE-rLXgSMeUYLIkZmtsNj2PbJylebk/view
 
-Link del video
+Link del video (Google Drive)
 https://drive.google.com/open?id=1KWFQcMi8e_6KtqcNZ8PBPOkKw1nzImzS&usp=drive_copy
