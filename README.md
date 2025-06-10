@@ -1,4 +1,4 @@
-TP-Integrador-Programacion-1
+TP Integrador Programacion 1
 
 Integrantes:
 
